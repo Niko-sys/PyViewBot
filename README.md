@@ -10,7 +10,7 @@ apt-get install nano
 git clone https://github.com/Vickey-Codez/PyViewBot
 cd PyViewBot
 ls
-pip3 install -r requiremnts.txt
+pip3 install -r requirements.txt
 nano config.py [ edit the path and url and save it ]
 ls
 python3 bot.py
